@@ -1,6 +1,6 @@
 #WEB PROJECTS
 
-## [Système de recommandation touristique](https://github.com/m-mourouh/Syst-me-Recommendation)
+## [Système de recommandation touristique | Python/Django](https://github.com/m-mourouh/Syst-me-Recommendation)
 ![image](https://i.postimg.cc/wB8d9Vjn/image.png)
 
 ## [Site Licence IRM | PHP ](https://licenceirm2021.000webhostapp.com)
@@ -21,4 +21,9 @@
 ## [Resposive McDONALD'S Landing Page ](https://m-mourouh.github.io/McDONALD-S-Landing-Page-Header/Landing%20page/)
 ![image](https://i.ytimg.com/vi/K_IjMCDdYNQ/hq720.jpg)
 
+## [Snake Game | Javascript](https://m-mourouh.github.io/Snake-Game-Using-Javascript-OOP/Snake/)
+![image](https://i.postimg.cc/JnyqtgLP/bs.png)
+
+## [Write-on-the-whiteboard | Javascript](https://m-mourouh.github.io/Write-on-the-whiteboard-project-With-Javascript-canvas/)
+![image](https://i.postimg.cc/gjg8DHmn/Screenshot-278.png)
 
