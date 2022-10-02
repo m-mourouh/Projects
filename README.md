@@ -12,8 +12,9 @@
 ![dd](https://user-images.githubusercontent.com/60442896/193472753-013bdb49-7985-4ed1-ac0e-0d4fdac31e97.png)
 
 
-## [Tourism Recommendation System | Python/Django](https://github.com/m-mourouh/Tourism-Recommendation-System)
-![image](https://i.postimg.cc/wB8d9Vjn/image.png)
+## [Tourism Recommendation System | Python - Django](https://github.com/m-mourouh/Tourism-Recommendation-System)
+![image](https://user-images.githubusercontent.com/60442896/193479090-ea1971bc-43d7-4067-b38b-cd947c7013cb.png)
+
 
 ## [IRM Website | PHP ](https://licenceirm2021.000webhostapp.com)
 ![Untitled-1](https://user-images.githubusercontent.com/60442896/193473012-b9313830-9747-44cf-9038-f4e4070dad7a.png)
