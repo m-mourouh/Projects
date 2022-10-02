@@ -36,5 +36,6 @@
 
 
 ## [Write-on-the-whiteboard | Javascript](https://m-mourouh.github.io/Write-on-the-whiteboard-project-With-Javascript-canvas/)
-![image](https://i.postimg.cc/gjg8DHmn/Screenshot-278.png)
+![d](https://user-images.githubusercontent.com/60442896/193480353-6336f644-43ab-444d-84a9-206ff3ffface.png)
+
 
