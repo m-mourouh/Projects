@@ -1,13 +1,14 @@
 #WEB PROJECTS
 
-## [Application de Traduction | Python ](https://groupe4.pythonanywhere.com/)
-![image](https://i.postimg.cc/gkbpy6rq/image.png)
+## [Translation App | Python ](https://groupe4.pythonanywhere.com/)
+![tra](https://user-images.githubusercontent.com/60442896/193472666-fef93572-1f86-452e-a6d4-995ec4f553f2.png)
+
 
 ## [Movies API | ReactJS](https://6339e354bf4c251a78a33f49--unique-rugelach-178bbd.netlify.app)
 ![movies](https://user-images.githubusercontent.com/60442896/193472454-0e92605a-d424-4991-be2c-13f11807f244.png)
 
 
-## [Site de dépistage de covid19 | Python ](https://m-mourouh.github.io/Covid-19-Detection-Web-Application/templates)
+## [Covid19 Detection | Python ](https://m-mourouh.github.io/Covid-19-Detection-Web-Application/templates)
 ![image](https://i.postimg.cc/XvS94LvB/image.png)
 
 ## [Système de recommandation touristique | Python/Django](https://github.com/m-mourouh/Syst-me-Recommendation)
