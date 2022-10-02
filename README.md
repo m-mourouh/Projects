@@ -32,7 +32,8 @@
 
 
 ## [Snake Game | Javascript](https://m-mourouh.github.io/Snake-Game-Using-Javascript-OOP/Snake/)
-![image](https://i.postimg.cc/JnyqtgLP/bs.png)
+![193473012-b9313830-9747-44cf-9038-f4e4070dad7a](https://user-images.githubusercontent.com/60442896/193480119-db9c2bea-d3ae-498d-8032-4f69c34806fc.png)
+
 
 ## [Write-on-the-whiteboard | Javascript](https://m-mourouh.github.io/Write-on-the-whiteboard-project-With-Javascript-canvas/)
 ![image](https://i.postimg.cc/gjg8DHmn/Screenshot-278.png)
