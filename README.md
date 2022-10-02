@@ -12,7 +12,7 @@
 ![dd](https://user-images.githubusercontent.com/60442896/193472753-013bdb49-7985-4ed1-ac0e-0d4fdac31e97.png)
 
 
-## [Système de recommandation touristique | Python/Django](https://github.com/m-mourouh/Syst-me-Recommendation)
+## [Tourism Recommendation System | Python/Django](https://github.com/m-mourouh/Tourism-Recommendation-System)
 ![image](https://i.postimg.cc/wB8d9Vjn/image.png)
 
 ## [IRM Website | PHP ](https://licenceirm2021.000webhostapp.com)
