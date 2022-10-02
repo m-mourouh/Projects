@@ -4,8 +4,8 @@
 ![image](https://i.postimg.cc/gkbpy6rq/image.png)
 
 ## [Movies API | ReactJS | Python ](https://6339e354bf4c251a78a33f49--unique-rugelach-178bbd.netlify.app)
-![image](![movies](https://user-images.githubusercontent.com/60442896/193472454-0e92605a-d424-4991-be2c-13f11807f244.png)
-)
+![movies](https://user-images.githubusercontent.com/60442896/193472454-0e92605a-d424-4991-be2c-13f11807f244.png)
+
 
 ## [Site de dépistage de covid19 | Python ](https://m-mourouh.github.io/Covid-19-Detection-Web-Application/templates)
 ![image](https://i.postimg.cc/XvS94LvB/image.png)
