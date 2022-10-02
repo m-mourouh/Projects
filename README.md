@@ -8,8 +8,9 @@
 ![movies](https://user-images.githubusercontent.com/60442896/193472454-0e92605a-d424-4991-be2c-13f11807f244.png)
 
 
-## [Covid19 Detection | Python ](https://m-mourouh.github.io/Covid-19-Detection-Web-Application/templates)
-![image](https://i.postimg.cc/XvS94LvB/image.png)
+## [Covid19 Detection App | Python ](https://m-mourouh.github.io/Covid-19-Detection-Web-Application/templates)
+![dd](https://user-images.githubusercontent.com/60442896/193472753-013bdb49-7985-4ed1-ac0e-0d4fdac31e97.png)
+
 
 ## [Système de recommandation touristique | Python/Django](https://github.com/m-mourouh/Syst-me-Recommendation)
 ![image](https://i.postimg.cc/wB8d9Vjn/image.png)
