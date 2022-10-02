@@ -1,10 +1,6 @@
 #WEB PROJECTS
 
 
-
-## [Site de Ménage ](https://www.decora-peinture.fr)
-![image](https://i.postimg.cc/gc1Q5LVn/image.png)
-
 ## [Site Licence IRM | PHP ](https://licenceirm2021.000webhostapp.com)
 ![image](https://i.postimg.cc/g2fPgX2K/image.png)
 
